@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_contact_contact_forms",
+  "info": {
+    "name": "contact_form",
+    "icon": "allergies"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    },
+    "button": {
+      "type": "string"
+    },
+    "name_error": {
+      "type": "string"
+    },
+    "email_empty": {
+      "type": "string"
+    },
+    "email_error": {
+      "type": "string"
+    },
+    "message_error": {
+      "type": "string"
+    },
+    "submit_success": {
+      "type": "string"
+    }
+  }
+}

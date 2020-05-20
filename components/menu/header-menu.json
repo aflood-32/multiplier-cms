@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_menu_header_menus",
+  "info": {
+    "name": "header_menu",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

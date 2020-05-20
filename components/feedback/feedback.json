@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_feedback_feedbacks",
+  "info": {
+    "name": "feedback",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "slider_items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "feedback.slider-items"
+    },
+    "logo_items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "feedback.logo-items"
+    }
+  }
+}

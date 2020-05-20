@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_features_features",
+  "info": {
+    "name": "features",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "img": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "features.item"
+    }
+  }
+}

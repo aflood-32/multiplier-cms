@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_feedback_slider_items",
+  "info": {
+    "name": "slider_items",
+    "icon": "ambulance"
+  },
+  "options": {},
+  "attributes": {
+    "img": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "name": {
+      "type": "string"
+    },
+    "job": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    }
+  }
+}

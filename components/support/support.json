@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_support_supports",
+  "info": {
+    "name": "support",
+    "icon": "angry"
+  },
+  "options": {},
+  "attributes": {
+    "img": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "first_title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    },
+    "second_title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "accordion_items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "support.accordion-items"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_solutions_items",
+  "info": {
+    "name": "item",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "string"
+    },
+    "body": {
+      "type": "text"
+    }
+  }
+}

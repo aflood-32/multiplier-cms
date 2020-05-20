@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_contact_contacts",
+  "info": {
+    "name": "contacts",
+    "icon": "anchor"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "list": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_support_links",
+  "info": {
+    "name": "link",
+    "icon": "arrows-alt"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

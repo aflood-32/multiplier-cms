@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_support_accordion_items",
+  "info": {
+    "name": "accordion_items",
+    "icon": "bars"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    }
+  }
+}

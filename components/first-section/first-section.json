@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_first_section_first_sections",
+  "info": {
+    "name": "first_section",
+    "icon": "cannabis"
+  },
+  "options": {},
+  "attributes": {
+    "main_title": {
+      "type": "string"
+    },
+    "img": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "left_btn": {
+      "type": "string"
+    },
+    "right_btn": {
+      "type": "string"
+    },
+    "btn_separator": {
+      "type": "string"
+    }
+  }
+}

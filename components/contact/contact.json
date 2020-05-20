@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_contact_contacts",
+  "info": {
+    "name": "contact",
+    "icon": "tty"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "contacts": {
+      "type": "component",
+      "repeatable": true,
+      "component": "contact.contacts"
+    },
+    "contact_form": {
+      "type": "component",
+      "repeatable": false,
+      "component": "contact.contact-form"
+    }
+  }
+}

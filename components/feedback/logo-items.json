@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_feedback_logo_items",
+  "info": {
+    "name": "logo_items",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": false
+    }
+  }
+}

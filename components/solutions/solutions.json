@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_solutions_solutions",
+  "info": {
+    "name": "solutions",
+    "icon": "balance-scale"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "solutions.item"
+    }
+  }
+}
